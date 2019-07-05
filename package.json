@@ -28,7 +28,7 @@
     "insert-css": "^0.2.0",
     "json-stable-stringify": "^1.0.0",
     "localforage": "^1.0.2",
-    "marked": "^0.3.2",
+    "marked": "^0.4.0",
     "mercury": "^12.0.0",
     "routes": "^1.2.0",
     "d3": "~3.5.5",
